@@ -1,10 +1,8 @@
 # 👋 Hello! I'm hs 🌟
 
-🌱 **프론트엔드 개발자**를 꿈꾸며, 🎨 **웹 디자이너**의 경험을 기반으로 사용자 경험을 최우선으로 하는 개발을 추구합니다!
+💻 **프론트엔드 개발자**를 꿈꾸며, 🎨 **웹 디자이너**의 경험을 기반으로 사용자 경험을 최우선으로 하는 개발을 추구합니다!
 
 🌱 **Aspiring Front-End Developer** | 🎨 **Former Web Designer**
-
-💻 I love turning creative ideas into functional and beautiful websites. With my design experience and coding skills, I aim to build seamless user experiences. 
 
 ---
 
