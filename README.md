@@ -16,6 +16,12 @@
 
 ---
 
+## 🎓 Trainings
+- 🔍 **UX/UI 디자인** 실무 프로젝트 과정
+- 🌀 **SSAFY** 삼성 청년 SW 아카데미 12기 
+
+---
+
 ## 📚 Ongoing Studies
 - 📝 **Algorithm Study Group**: Improving problem-solving skills with Python 
 - 🌐 **FE Study**: *Coming Soon!* 🚀 Diving into modern front-end development practices, focusing on React, state management, and advanced JavaScript concepts.
