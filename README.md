@@ -8,9 +8,26 @@
 
 ## 💡 About Me
 - 🔥 Passionate about **web development** and **user experience design**.
-- 🌐 Currently working on: **Movie recommendation site using Django & Javascript.**
+- 🌐 Currently working on: **Movie recommendation site using Django & JavaScript.**
 - 🌈 Exploring the intersection of **design** and **technology**.
 - 🌎 Open to collaborating on **front-end projects**.
+
+---
+
+## 📚 Ongoing Studies
+- 📝 **Algorithm Study Group**: Improving problem-solving skills with Python 
+- 🌐 **FE Study**: *Coming Soon!* 🚀 Diving into modern front-end development practices, focusing on React, state management, and advanced JavaScript concepts.
+
+---
+
+## 🎬 Projects
+- 🎥 **Movie Recommendation Site**:  
+  Recommends movies based on current weather conditions using Django, JavaScript, TMDB API, and weather APIs.  
+  [View Repository](https://github.com/yourusername/movie-recommendation-site)
+
+- 🚀 **To-Do List App**:  
+  *Coming Soon!* 🛠️ Creating a personal to-do app from scratch using Vanilla JavaScript to enhance core JavaScript skills.
+  [View Repository](https://github.com/yourusername/todo-app)
 
 ---
 
