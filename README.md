@@ -22,7 +22,8 @@
 
 ## 🎬 Projects
 - 🎥 **Movie Recommendation Site**:  
-  Recommends movies based on current weather conditions using Django, JavaScript, TMDB API, and weather APIs.  
+  Recommends movies based on current weather conditions using Django, JavaScript, TMDB API, and weather API.
+  [View Repository](https://github.com/hseegr/project_01)
 
 - 🚀 **To-Do List App**:  
   *Coming Soon!* 🛠️ Creating a personal to-do app from scratch using Vanilla JavaScript to enhance core JavaScript skills.
