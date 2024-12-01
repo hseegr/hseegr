@@ -23,11 +23,11 @@
 ## 🎬 Projects
 - 🎥 **Movie Recommendation Site**:  
   Recommends movies based on current weather conditions using Django, JavaScript, TMDB API, and weather APIs.  
-  [View Repository](https://github.com/yourusername/movie-recommendation-site)
+  [View Repository]()
 
 - 🚀 **To-Do List App**:  
   *Coming Soon!* 🛠️ Creating a personal to-do app from scratch using Vanilla JavaScript to enhance core JavaScript skills.
-  [View Repository](https://github.com/yourusername/todo-app)
+  [View Repository]()
 
 ---
 
@@ -59,5 +59,5 @@
 ---
 
 ## 💌 Get in Touch!
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 📧 [Email](mailto:your.email@example.com)  
+- 💼 [LinkedIn]()Coming soon! 🚧 Please stay tuned.
+- 📧 [Email](mailto:hseegr@naver.com)  
