@@ -47,7 +47,7 @@
 ### **Frameworks & Libraries**  
 - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
 - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### **Tools**  
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
