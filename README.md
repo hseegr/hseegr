@@ -6,11 +6,8 @@
 
 ---
 
-## 💡 About Me
-- 🔥 Passionate about **web development** and **user experience design**.
-- 🌐 Currently working on: **Movie recommendation site using Django & JavaScript.**
-- 🌈 Exploring the intersection of **design** and **technology**.
-- 🌎 Open to collaborating on **front-end projects**.
+## 💡 My Portfolio !!
+- 🌐 https://portfolio-mu-peach-52.vercel.app/
 
 ---
 
