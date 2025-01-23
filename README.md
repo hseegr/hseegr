@@ -17,19 +17,10 @@
 
 ---
 
-## 📚 Ongoing Studies
-- 📝 **Algorithm Study Group**: Improving problem-solving skills with Python 
-- 🌐 **FE Study**: *Coming Soon!* 🚀 Diving into modern front-end development practices, focusing on React, state management, and advanced JavaScript concepts.
-
----
-
 ## 🎬 Projects
-- 🎥 **Movie Recommendation Site**:  
+- 🎥 **위치 및 날씨 기반 영화 추천 사이트**:  
   Recommends movies based on current weather conditions using Django, JavaScript, TMDB API, and weather API.
   [View Repository](https://github.com/hseegr/project_01)
-
-- 🚀 **To-Do List App**:  
-  *Coming Soon!* 🛠️ Creating a personal to-do app from scratch using Vanilla JavaScript to enhance core JavaScript skills.
 
 ---
 
