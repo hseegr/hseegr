@@ -19,8 +19,9 @@
 
 ## 🎬 Projects
 - 🎥 **위치 및 날씨 기반 영화 추천 사이트**:  
-  Django, JavaScript, TMDB API, and weather API.  [👉 프로젝트 살펴보기](https://github.com/hseegr/project_01)
-
+  [👉 프로젝트 살펴보기](https://github.com/hseegr/project_01)
+- ✏️ **싸피인의 자율적 성장을 돕는 플랫폼**
+  [👉 프로젝트 살펴보기](https://github.com/hseegr/SSACLE)
 ---
 
 ## 🛠️ Tech Stack
