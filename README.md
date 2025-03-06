@@ -7,7 +7,7 @@
 ---
 
 ## 💡 My Portfolio !!
-- 🌐 [👉Hello World!](https://portfolio-seven-bay-42.vercel.app/)
+- 🌐 [👉 Hello World!](https://portfolio-seven-bay-42.vercel.app/)
 
 ---
 
@@ -19,8 +19,7 @@
 
 ## 🎬 Projects
 - 🎥 **위치 및 날씨 기반 영화 추천 사이트**:  
-  Recommends movies based on current weather conditions using Django, JavaScript, TMDB API, and weather API.
-  [View Repository](https://github.com/hseegr/project_01)
+  Django, JavaScript, TMDB API, and weather API.  [👉 프로젝트 살펴보기](https://github.com/hseegr/project_01)
 
 ---
 
