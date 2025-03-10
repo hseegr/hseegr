@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 My Portfolio !!
+## 💡 My Portfolio
 - 🌐 [👉 Hello World!](https://portfolio-seven-bay-42.vercel.app/)
 
 ---
