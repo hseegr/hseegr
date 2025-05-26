@@ -22,6 +22,11 @@
   [👉 프로젝트 살펴보기](https://github.com/hseegr/project_01)
 - ✏️ **싸피인의 자율적 성장을 돕는 플랫폼 - SSACLE**
   [👉 프로젝트 살펴보기](https://github.com/hseegr/SSACLE)
+- 🏘️ **생활 반경(교통편)을 고려한 맞춤형 매물 탐색 서비스 - 쌩GO집**
+  [👉 프로젝트 살펴보기](https://github.com/hseegr/SSAENGGOJIP)
+- 📓 **빠르게 일상을 기록하고, AI로 정리를 도와주는 사용자 중심 일기 서비스 - Haru's Peak**
+- [👉 프로젝트 살펴보기](https://github.com/hseegr/HARUSPEAK)
+
 ---
 
 ## 🛠️ Tech Stack
