@@ -25,7 +25,7 @@
 - 🏘️ **생활 반경(교통편)을 고려한 맞춤형 매물 탐색 서비스 - 쌩GO집**
   [👉 프로젝트 살펴보기](https://github.com/hseegr/SSAENGGOJIP)
 - 📓 **빠르게 일상을 기록하고, AI로 정리를 도와주는 사용자 중심 일기 서비스 - Haru's Peak**
-- [👉 프로젝트 살펴보기](https://github.com/hseegr/HARUSPEAK)
+  [👉 프로젝트 살펴보기](https://github.com/hseegr/HARUSPEAK)
 
 ---
 
