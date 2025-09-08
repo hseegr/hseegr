@@ -2,18 +2,18 @@
 
 💻 **프론트엔드 개발자**를 꿈꾸며, 🎨 **웹 디자이너**의 경험을 기반으로 사용자 경험을 최우선으로 하는 개발을 추구합니다.
 
----
+
 
 ## 💡 My Portfolio
 - 🌐 [👉 Hello World!](https://portfolio-seven-bay-42.vercel.app/)
 
----
+
 
 ## 🎓 Trainings
 - 🌀 **SSAFY** 삼성 청년 SW 아카데미 12기 
 - 🔍 **UX/UI 디자인** 실무 프로젝트 과정
 
----
+
 
 ## 🎬 Projects
 - 🎥 **위치 및 날씨 기반 영화 추천 사이트 - WARM** 
@@ -25,7 +25,7 @@
 - 📓 **빠르게 일상을 기록하고, AI로 정리를 도와주는 사용자 중심 일기 서비스 - Haru's Peak**
   [👉 프로젝트 살펴보기](https://github.com/hseegr/HARUSPEAK)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -38,13 +38,13 @@
 ### **Tools**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)  
 
----
+
 
 ## 🌟 Highlights
 - 🏆 **Featured Projects:** Coming soon! 🚧 Please stay tuned.  
 - 🌐 **Personal Website:** Under construction 🛠️. Thank you for your patience! 
 
----
+
 
 ## 💌 Get in Touch!
 - 💼 [LinkedIn]() Coming soon! 🚧 Please stay tuned.
