@@ -24,7 +24,7 @@
   [👉 프로젝트 살펴보기](https://github.com/hseegr/SSAENGGOJIP)
 - 📓 **빠르게 일상을 기록하고, AI로 정리를 도와주는 사용자 중심 일기 서비스 - Haru's Peak**
   [👉 프로젝트 살펴보기](https://github.com/hseegr/HARUSPEAK)
-
+<br><br>
 
 
 ## 🛠️ Tech Stack
@@ -37,13 +37,13 @@
 
 ### **Tools**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)  
-
+<br><br>
 
 
 ## 🌟 Highlights
 - 🏆 **Featured Projects:** Coming soon! 🚧 Please stay tuned.  
 - 🌐 **Personal Website:** Under construction 🛠️. Thank you for your patience! 
-
+<br><br>
 
 
 ## 💌 Get in Touch!
