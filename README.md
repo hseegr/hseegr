@@ -6,13 +6,13 @@
 
 ## 💡 My Portfolio
 - 🌐 [👉 Hello World!](https://portfolio-seven-bay-42.vercel.app/)
-
+<br><br>
 
 
 ## 🎓 Trainings
 - 🌀 **SSAFY** 삼성 청년 SW 아카데미 12기 
 - 🔍 **UX/UI 디자인** 실무 프로젝트 과정
-
+<br><br>
 
 
 ## 🎬 Projects
