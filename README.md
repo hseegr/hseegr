@@ -3,6 +3,8 @@
 **프론트엔드 개발자**를 꿈꾸며, **웹 디자이너**의 경험을 기반으로 사용자 경험을 최우선으로 하는 개발을 추구합니다.
 <br><br>
 
+## 📑 My Career
+- **웹 디자이너** 2021.08 ~ 2024.03
 
 ## 💡 My Portfolio
 - 🌐 [👉 Hello World!](https://portfolio-seven-bay-42.vercel.app/) (추가 업로드 예정 !🐛)
