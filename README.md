@@ -7,16 +7,14 @@
 - **웹 디자이너** 2021.08 ~ 2024.03
 <br><br>
 
-## 💡 My Portfolio
-- 🌐 [👉 Hello World!](https://portfolio-seven-bay-42.vercel.app/) (추가 업로드 예정 !🐛)
-<br><br>
-
-
 ## 🎓 Trainings
 - 🌀 **SSAFY** 삼성 청년 SW 아카데미 12기 
 - 🔍 **UX/UI 디자인** 실무 프로젝트 과정
 <br><br>
 
+## 💡 My Portfolio
+- 🌐 [👉 Hello World!](https://portfolio-seven-bay-42.vercel.app/) (추가 업로드 예정 !🐛)
+<br><br>
 
 ## 🎬 Projects
 - 🎥 **위치 및 날씨 기반 영화 추천 사이트 - WARM** 
