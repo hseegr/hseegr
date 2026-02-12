@@ -13,6 +13,14 @@
 - 🔍 **UX/UI 디자인** 실무 프로젝트 과정 2021.03 ~ 2021.07
 <br><br>
 
+## 🏆 Certifications
+<p align="left">
+  <a href="https://www.credly.com/badges/01f321b1-7dd0-47d8-820b-18f4f3ff5556/public_url">
+    <img src="./assets/aws-saa.png" width="120"/>
+  </a>
+</p>
+<br>
+
 ## 💡 My Portfolio
 - 🌐 [👉 Hello World!](https://portfolio-seven-bay-42.vercel.app/) (추가 업로드 예정 !🐛)
 <br><br>
