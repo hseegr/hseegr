@@ -19,7 +19,8 @@
     <img src="./assets/aws-saa.png" width="120"/>
   </a>
 </p>
-<br>
+- AWS Certified Solutions Architect – Associate
+<br><br>
 
 ## 💡 My Portfolio
 - 🌐 [👉 Hello World!](https://portfolio-seven-bay-42.vercel.app/) (추가 업로드 예정 !🐛)
