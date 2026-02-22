@@ -19,7 +19,7 @@
     <img src="./assets/aws-saa.png" width="120"/>
   </a>
 </p>
-- AWS Certified Solutions Architect – Associate (SAA-C03)
+- AWS Certified Solutions Architect (AWS 공인 솔루션스 아키텍트 (어소시에이트 등급)) : Associate (SAA-C03)
 <br><br>
 
 ## 💡 My Portfolio
