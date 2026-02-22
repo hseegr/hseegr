@@ -19,7 +19,7 @@
     <img src="./assets/aws-saa.png" width="120"/>
   </a>
 </p>
-- AWS Certified Solutions Architect – Associate
+- AWS Certified Solutions Architect – Associate (SAA-C03)
 <br><br>
 
 ## 💡 My Portfolio
