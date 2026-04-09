@@ -19,7 +19,8 @@
     <img src="./assets/aws-saa.png" width="120"/>
   </a>
 </p>
-AWS 공인 솔루션스 아키텍트 (어소시에이트 등급) : Associate (SAA-C03)
+- AWS 공인 솔루션스 아키텍트 (어소시에이트 등급) : Associate (SAA-C03)
+- SQL 개발자(SQLD)
 <br><br>
 
 ## 💡 My Portfolio
