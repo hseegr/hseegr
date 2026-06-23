@@ -20,7 +20,7 @@
   </a>
 </p>
 - AWS 공인 솔루션스 아키텍트 (어소시에이트 등급) : Associate (SAA-C03)<br>
-- SQL 개발자 (SQLD)
+- SQL 개발자 (SQLD)<br>
 - 데이터 분석 준전문가 (ADsP)
 <br><br>
 
