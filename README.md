@@ -53,12 +53,6 @@
 <br><br>
 
 
-## 🌟 Highlights
-- 🏆 **Featured Projects:** Coming soon! 🚧 Please stay tuned.  
-- 🌐 **Personal Website:** Under construction 🛠️. Thank you for your patience! 
-<br><br>
-
-
 ## 💌 Get in Touch!
 - 💼 [LinkedIn]() Coming soon! 🚧 Please stay tuned.
 - 📧 [Email](mailto:hseegr@naver.com)  
