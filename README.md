@@ -39,7 +39,6 @@
   [👉 프로젝트 살펴보기](https://github.com/hseegr/HARUSPEAK)
 <br><br>
 
-
 ## 🛠️ Tech Stack
 
 ### **Languages**  
